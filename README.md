@@ -9,8 +9,8 @@ Este projeto é uma loja de carros, que são classificados em destaques do momen
 
 ## Tecnologias Utilizadas 📚
 
-- **HTML:** Estrutura da página web.
-- **CSS:** Estilização da interface do usuário.
+- **HTML5:** Estrutura da página web.
+- **CSS3:** Estilização da interface do usuário.
 - **JavaScript:** Eventos como cliques em botões e animações de scroll.
 - **jQuery 1.11.0:** Criação do menu hamburguer e a animação de scroll para a seção de contato.
 - **jQuery Mask Plugin 1.14.16** Máscara de entrada no campo de telefone do formulário
