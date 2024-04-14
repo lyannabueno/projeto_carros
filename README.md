@@ -2,10 +2,17 @@
 
 Este projeto é uma loja de carros, que são classificados em destaques do momento e promocionais. Para obter o automóvel ou tirar mais dúvidas sobre, pode-se comunicar com o proprietário pela aba de Contato com uma mensagem.
 
+![image](https://github.com/lyannabueno/projeto_carros/assets/130186281/e8e70854-e1d9-475d-8674-2500127a987b)
+
 ## Funcionalidades 🌟
 
-- **Comprar um carro:** Os usuários podem abertar no botão 'Tenho interesse' para fechar um negócio com o proprietário 
+- **Comprar um carro:** Os usuários podem abertar no botão 'Tenho interesse' para fechar um negócio com o proprietário
+  
+![image](https://github.com/lyannabueno/projeto_carros/assets/130186281/c35367d3-2373-459a-9af0-cae7c7b60790)
+  
 - **Entrar em contato :** Com suas informações de contato é possível retornar uma mensagem ao usuário para respodner suas dúvidas
+  
+![image](https://github.com/lyannabueno/projeto_carros/assets/130186281/d56fff5f-1e1b-419c-b5a7-894a7807302c)
 
 ## Tecnologias Utilizadas 📚
 
