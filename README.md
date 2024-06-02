@@ -1,54 +1,52 @@
 # EBAC Motors 🚘
 
-Este projeto é uma loja de carros, que são classificados em destaques do momento e promocionais. Para obter o automóvel ou tirar mais dúvidas sobre, pode-se comunicar com o proprietário pela aba de Contato com uma mensagem.
-
 ![image](https://github.com/lyannabueno/projeto_carros/assets/130186281/e8e70854-e1d9-475d-8674-2500127a987b)
 
-## Funcionalidades 🌟
+## Features 🌟
 
-- **Comprar um carro:** Os usuários podem abertar no botão 'Tenho interesse' para fechar um negócio com o proprietário
+- **Buy a car:** Users can click the 'I'm interested' button to close a deal with the owner.
   
-![image](https://github.com/lyannabueno/projeto_carros/assets/130186281/c35367d3-2373-459a-9af0-cae7c7b60790)
-  
-- **Entrar em contato :** Com suas informações de contato é possível retornar uma mensagem ao usuário para respodner suas dúvidas
-  
-![image](https://github.com/lyannabueno/projeto_carros/assets/130186281/d56fff5f-1e1b-419c-b5a7-894a7807302c)
+- **Get in touch:** With your contact information, it's possible to return a message to the user to answer their questions.
 
-## Tecnologias Utilizadas 📚
+## Technologies Used 📚
 
-- **HTML5:** Estrutura da página web.
-- **CSS3:** Estilização da interface do usuário.
-- **JavaScript:** Eventos como cliques em botões e animações de scroll.
-- **jQuery 1.11.0:** Criação do menu hamburguer e a animação de scroll para a seção de contato.
-- **jQuery Mask Plugin 1.14.16** Máscara de entrada no campo de telefone do formulário
-- **Slick Carousel 1.8.1:** Carrossel de imagens responsivo e com autoplay para a seção de inicial do site.
-- **jQuery Validate 1.19.5:** Garante que os dados inseridos no campo de formulário sejam válidos e completos, com regras específicas para cada campo
-- **Messages PT-BR 1.19.5:** Fornece traduções em português para as mensagens de validação, melhorando a experiência do usuário brasileiro.
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt=""JavaScript>
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+</p>
 
-## Como Usar 🚗
+#### What I learned in this project:
+- Create a carousel with JavaScript using Slick.
+- Create a sliding effect when interacting with the menu.
+- Create a mask and validate the elements of a form.
+- Return the name of a product in a message box.
 
-Para entrar no site e comprar um automóvel, você não precisa instalar nada. Simplesmente clone ou baixe o projeto para o seu computador e abra o arquivo `index.html` em um navegador de sua escolha.
+## How to Use 🚗
 
-### Passos para Executar
+To visit the site and buy a car, you don't need to install anything. Simply clone or download the project to your computer and open the `index.html` file in a browser of your choice.
 
-1. **Clone ou baixe o repositório:**
+### Steps to Execute
+
+1. **Clone or download the repository:**
 
 ```bash
 https://github.com/lyannabueno/projeto_carros.git
 ```
 
-2. **Abra o arquivo `index.html`:**
+2. **Open the `index.html` file:**
 
-Localize o arquivo `index.html` no diretório do projeto e abra-o em um navegador web.
+Locate the `index.html` file in the project directory and open it in a web browser.
 
-## Contribuições 🫂
+## Contributions 🫂
 
-Contribuições para melhorar a calculadora de médias são bem-vindas. Se você tem uma sugestão para melhorar este projeto, sinta-se à vontade para criar um fork do repositório, fazer suas alterações e enviar um pull request.
+Contributions to improve this project are welcome. If you have a suggestion to enhance this project, feel free to fork the repository, make your changes, and submit a pull request.
 
-## Contato 📩
+## Contact 📩
 
 Ana Bueno - anabuenogomes@hotmail.com
 
-Link do projeto: https://projeto-carros-seven.vercel.app/
+Project link: https://projeto-carros-seven.vercel.app/
 
 ---
