@@ -19,7 +19,7 @@
 
 #### What I learned in this project:
 - Create a carousel with JavaScript using Slick.
-- Create a sliding effect when interacting with the menu.
+- Create a sliding effect when interacting with the menu through js
 - Create a mask and validate the elements of a form.
 - Return the name of a product in a message box.
 
